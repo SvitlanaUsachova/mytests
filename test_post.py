@@ -14,12 +14,3 @@ def test_create_post():
     status_code = response.status_code
     assert status_code == 201
 
-
-
-
-
-
-
-
-
-
